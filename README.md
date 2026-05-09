@@ -42,6 +42,8 @@ This project focuses on creating an interactive business dashboard using Looker 
 ## 🔗 Dashboard Link
 Here is the link for interactive superstore sales dashboard :
 https://datastudio.google.com/reporting/f5094470-7dfc-4b31-b380-c1b8aeec335e
+<img width="817" height="622" alt="dashboard" src="https://github.com/user-attachments/assets/97ab449d-f652-4d31-910d-a3443b69a2be" />
+
 
 ## 📌 Conclusion
 The dashboard successfully transformed raw data into interactive visual insights, helping in understanding business performance and trends.
